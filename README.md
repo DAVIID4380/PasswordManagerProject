@@ -28,36 +28,6 @@ Este es un proyecto básico de **gestor de contraseñas** desarrollado en **Java
 
 ---
 
-  # Gestor de Contraseñas en Java con Swing
-
-Este es un proyecto básico de **gestor de contraseñas** desarrollado en **Java** utilizando la biblioteca gráfica **Swing**. Permite almacenar y consultar contraseñas de forma sencilla, con una interfaz gráfica amigable.
-
----
-
-## 🚀 Funcionalidades
-
-- **Agregar Contraseñas**: Guarda las contraseñas asociadas a cuentas específicas.
-- **Visualizar Contraseñas**: Lista todas las contraseñas almacenadas en el programa.
-- **Interfaz gráfica**: Implementada con Java Swing.
-
----
-
-## 🛠️ Tecnologías
-
-- **Lenguaje**: Java (JDK 8+)
-- **GUI**: Java Swing
-- **Almacenamiento**: HashMap (almacenamiento en memoria)
-
----
-
-## 🖥️ Requisitos del sistema
-
-- JDK 8 o superior
-- IDE recomendado: IntelliJ IDEA, Eclipse o NetBeans
-- Sistema operativo compatible con Java (Windows, macOS, Linux)
-
----
-
 ## ⚙️ Configuración del proyecto
 
 1. **Clonar el repositorio**
@@ -69,3 +39,11 @@ Este es un proyecto básico de **gestor de contraseñas** desarrollado en **Java
 3. **Agregar las librerias correspondientes**
 4. **Importar la base de datos**
 5. **Ejecutar el proyecto**
+
+---
+
+## 🖥️ Presentación del proyecto
+
+```bash
+   https://www.canva.com/design/DAGY16kaoTY/qJPlawC4XIzsbzMmhhbolw/edit?utm_content=DAGY16kaoTY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
